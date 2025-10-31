@@ -137,3 +137,11 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+report/main.aux
+report/main.out
+report/main.toc
+report/_minted/_FAD58DE7366495DB4650CFEFAC2FCD61.index.minted
+.gitignore
+report/_minted/64EB9C8C6B7017D9BC4CBA846091DB0F.highlight.minted
+report/_minted/8934264B83E8427C5224D8288DADEFCD.highlight.minted
+report/_minted/tango.style.minted
